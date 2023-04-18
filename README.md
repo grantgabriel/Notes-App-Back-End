@@ -1,6 +1,7 @@
 # 🌠 Notes-App-Back-End
 
-🚀 This is a RESTful API build with vanilla Javascript.
+🚀 This is a RESTful API build with vanilla Javascript.<br>
+Notes : Soon enough, i will update this with typescript for more secure type system, and maybe ill do it obeying the linter set, so check for more further update
 
 ## Requirement
 
