@@ -15,7 +15,7 @@ Notes : Soon enough, i will update this with typescript for more secure type sys
 3. Install dependency : `npm install`
 4. Run : `start-prod` and go copy the server link  `http://localhost:5000`
 5. Paste the server link into the dicoding Front-End template `http://notesapp-v1.dicodingacademy.com/`
-6. Enjoy your To-do List ^^
+6. Enjoy your notes. ^^
 
 ## Contribution
 
